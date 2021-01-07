@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enermy
+  - Mario
+  - cherry
+  - jiguan
+  - Text
+  - door
+  - strike
+  - Enemy
+  - dead
+  - Collection_1
+  - Collection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - plane
+  - enermy
+  - Cherry
+  - door
+  - Enemy
+  - DeadLand
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ui
+    uniqueID: 1742762067
+    locked: 0
+  - name: 1
+    uniqueID: 330226929
+    locked: 0
